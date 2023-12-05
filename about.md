@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About
+title: About me
 ---
 
-**Not Pure Poole** is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
+I will pursue a doctoral degree at the PolyU School of Computing in May 2024, under the supervision of [Prof. Jincai Guo](https://jingcaiguo.github.io/). Prior to that, I received my M.Eng. degree , under the supervision of [Prof. Bo Chen](https://web.xidian.edu.cn/bchen/), and B.Eng. degree , all from Xidian University in 2020 and 2023.
 
-For more information about Not Pure Poole, please browse the [README](https://github.com/vszhub/not-pure-poole) file.
+My research interest includes but not limited to Zero-shot Learning, Few-shot Lerarning and Optimal Transport.
