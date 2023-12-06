@@ -1,4 +1,4 @@
----
+![image](https://github.com/keepgoingjkg/keepgoingjkg.github.io/assets/91856529/68b80d23-b184-4568-99ca-6f91a4bbe6ac)---
 layout: page
 ---
 
@@ -11,13 +11,18 @@ I will pursue a doctoral degree at the PolyU School of Computing in May 2024, un
 My research interest includes but not limited to Zero-shot Learning, Few-shot Lerarning and Optimal Transport.
 
 ## 🔥 News
-- *2023.10*: &nbsp;🔥🔥 We've built [OpenAgents](https://github.com/xlang-ai/OpenAgents), an open platform for language agents in the wild!
-- *2023.10*: &nbsp;🙋🙋 We have released [Lemur-70B](https://arxiv.org/abs/2310.06830), an agentic language model based on LLama-2!
-- *2023.04*: &nbsp;🔥🔥 New preprint applying [**symbolic tasks** in **instruction tuning**](https://arxiv.org/abs/2304.07995)!
-- *2022.10*: &nbsp;🎉🎉 Our **TaCube** paper(Table QA) got accepted by EMNLP'22.
+- *2023.12*: &nbsp;🥳🥳 I got a PhD offer from PolyU.
+- *2023.10*: &nbsp;🙋🙋 One paper is accepted by Journal of Radar.
+- *2023.09*: &nbsp;🍾🍾 One paper is accepted by NeurIPS2023. 
+- *2023.07*: &nbsp;🎉🎉 2023.07:PatchCT is accepted by ICCV2023.
 
-## 🎖 Selected Honors 
 
-## 📚 Education
-<div class='paper-box'><div class='paper-box-image'><div><img src='https://keepgoingjkg.github.io/ALIGN.JPG' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+## 🎖 Awards 
+- Outstanding Graduates of XDU, 2022
+- Special prize of the 13th postgraduate English speech contest of Shaanxi Province Grand Final of Xidian University, 2020
+- XDU Academic Scholarship, 2016~2022
+- First prize of the 11th Mathematics competition of Chinese College Students, 2019
+  
+## 🎓 Education
+- *2020.09 - 2023.03*, M.S.@XDU, Electronic Engineering
+- *2016.09 - 2020.06*, B.S.@XDU, Electronic Engineering.
