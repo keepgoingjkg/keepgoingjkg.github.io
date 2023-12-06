@@ -1,4 +1,4 @@
-![image](https://github.com/keepgoingjkg/keepgoingjkg.github.io/assets/91856529/68b80d23-b184-4568-99ca-6f91a4bbe6ac)---
+---
 layout: page
 ---
 
