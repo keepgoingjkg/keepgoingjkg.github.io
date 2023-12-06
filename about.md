@@ -21,11 +21,11 @@ My research interest includes but not limited to Zero-shot Learning, Few-shot Le
 ## 🎖 Awards 
 - Outstanding Graduates of XDU, 2022
 - Special prize of the 13th postgraduate English speech contest of Shaanxi Province Grand Final of Xidian University, 2020
-- XDU Academic Scholarship, 2016~2022
 - First prize of the 11th Mathematics competition of Chinese College Students, 2019
+- XDU Academic Scholarship, 2016~2022
   
 ## 🎓 Education
-- 2020.09 - 2023.03, M.S.@XDU, Electronic Engineering
+- 2020.09 - 2023.06, M.S.@XDU, Electronic Engineering
 - 2016.09 - 2020.06, B.S.@XDU, Electronic Engineering.
 
 ## 🥏 Others
