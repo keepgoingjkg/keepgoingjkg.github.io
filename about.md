@@ -25,7 +25,8 @@ My research interest includes but not limited to Zero-shot Learning, Few-shot Le
 - XDU Academic Scholarship, 2016~2022
 
 ## 🧙 Services
-- IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR24)
+- Conference Review：
+  IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR24)
   
 ## 🎓 Education
 - 2020.09 - 2023.06, M.S.@XDU, Electronic Engineering
