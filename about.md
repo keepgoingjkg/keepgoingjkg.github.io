@@ -12,10 +12,10 @@ I will pursue a doctoral degree at the PolyU School of Computing in May 2024, un
 My research interest includes but not limited to Zero-shot Learning, Few-shot Lerarning and Optimal Transport.
 
 ## 🔥 News
-- *2023.12*: &nbsp;🥳🥳 I got a PhD offer from PolyU.
-- *2023.10*: &nbsp;🙋🙋 One paper is accepted by Journal of Radar.
-- *2023.09*: &nbsp;🍾🍾 One paper is accepted by NeurIPS2023. 
-- *2023.07*: &nbsp;🎉🎉 2023.07:PatchCT is accepted by ICCV2023.
+- 2023.12: &nbsp;🥳🥳 I got a PhD offer from PolyU.
+- 2023.10: &nbsp;🙋🙋 One paper is accepted by Journal of Radar.
+- 2023.09: &nbsp;🍾🍾 One paper is accepted by NeurIPS2023. 
+- 2023.07: &nbsp;🎉🎉 2023.07:PatchCT is accepted by ICCV2023.
 
 
 ## 🎖 Awards 
@@ -25,8 +25,8 @@ My research interest includes but not limited to Zero-shot Learning, Few-shot Le
 - First prize of the 11th Mathematics competition of Chinese College Students, 2019
   
 ## 🎓 Education
-- *2020.09 - 2023.03*, M.S.@XDU, Electronic Engineering
-- *2016.09 - 2020.06*, B.S.@XDU, Electronic Engineering.
+- 2020.09 - 2023.03, M.S.@XDU, Electronic Engineering
+- 2016.09 - 2020.06, B.S.@XDU, Electronic Engineering.
 
 ## 🥏 Others
 - I also like to challenge myself, in my spare time I learned Muay Thai🥊🥊 and skateboarding 🛹🛹. I hope I can challenge more impossible things in the future!
