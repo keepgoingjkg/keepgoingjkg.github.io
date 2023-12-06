@@ -23,6 +23,9 @@ My research interest includes but not limited to Zero-shot Learning, Few-shot Le
 - Special prize of the 13th postgraduate English speech contest of Shaanxi Province Grand Final of Xidian University, 2020
 - First prize of the 11th Mathematics competition of Chinese College Students, 2019
 - XDU Academic Scholarship, 2016~2022
+
+## 🧙 Services
+- IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR24)
   
 ## 🎓 Education
 - 2020.09 - 2023.06, M.S.@XDU, Electronic Engineering
