@@ -28,5 +28,5 @@ My research interest includes but not limited to Zero-shot Learning, Few-shot Le
 - *2020.09 - 2023.03*, M.S.@XDU, Electronic Engineering
 - *2016.09 - 2020.06*, B.S.@XDU, Electronic Engineering.
 
-## 🎓 Others
+## 🥏 Others
 - I also like to challenge myself, in my spare time I learned Muay Thai🥊🥊 and skateboarding 🛹🛹. I hope I can challenge more impossible things in the future!
