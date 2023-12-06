@@ -1,5 +1,6 @@
 ---
 layout: page
+title: "About"
 ---
 
 <span class='anchor' id='about-me'></span>
