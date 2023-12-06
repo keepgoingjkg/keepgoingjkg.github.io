@@ -10,7 +10,7 @@ I will pursue a doctoral degree at the PolyU School of Computing in May 2024, un
 
 My research interest includes but not limited to Zero-shot Learning, Few-shot Lerarning and Optimal Transport.
 
-# 🔥 News
+# <h2>🔥News</h2>
 - *2023.10*: &nbsp;🔥🔥 We've built [OpenAgents](https://github.com/xlang-ai/OpenAgents), an open platform for language agents in the wild!
 - *2023.10*: &nbsp;🙋🙋 We have released [Lemur-70B](https://arxiv.org/abs/2310.06830), an agentic language model based on LLama-2!
 - *2023.04*: &nbsp;🔥🔥 New preprint applying [**symbolic tasks** in **instruction tuning**](https://arxiv.org/abs/2304.07995)!
