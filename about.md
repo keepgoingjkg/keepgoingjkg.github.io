@@ -28,6 +28,11 @@ My research interest includes but not limited to Zero-shot Learning, Few-shot Le
 - Conference Reviewer：
   
   IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR24)
+  International Conference on Machine Learning (ICML24)
+
+- Journal Reviewer:
+
+  IEEE Open Journal of the Computer Society (IEEE OJ-CS)
   
 ## 🎓 Education
 - 2020.09 - 2023.06, M.S.@XDU, Electronic Engineering
