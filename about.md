@@ -12,6 +12,7 @@ I will pursue a doctoral degree at the PolyU School of Computing in May 2024, un
 My research interest includes but not limited to Zero-shot Learning, Few-shot Learning and Optimal Transport.
 
 ## 🔥 News
+- 2024.04: &nbsp;🍾🍾 One paper is accepted by UAI2023. 
 - 2023.12: &nbsp;🥳🥳 I got a PhD offer from PolyU.
 - 2023.10: &nbsp;🙋🙋 One paper is accepted by Journal of Radar.
 - 2023.09: &nbsp;🍾🍾 One paper is accepted by NeurIPS2023. 
