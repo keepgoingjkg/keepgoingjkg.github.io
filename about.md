@@ -7,7 +7,7 @@ title: "About"
 
 ## 🐨 Me
 
-I will pursue a doctoral degree at the PolyU School of Computing in May 2024, under the supervision of [Dr. Jingcai Guo](https://jingcaiguo.github.io/). Prior to that, I received my M.Eng. degree , under the supervision of [Prof. Bo Chen](https://web.xidian.edu.cn/bchen/), and my B.Eng. degree , all from Xidian University in 2023 and 2020 respectively.
+Welcome to my homepages! I am currently a PhD student in the Department of Computing at The Hong Kong Polytechnic University, supervised by [Dr. Jingcai Guo](https://jingcaiguo.github.io/). Prior to that, I received my M.Eng. degree , under the supervision of [Prof. Bo Chen](https://web.xidian.edu.cn/bchen/), and my B.Eng. degree , all from Xidian University in 2023 and 2020 respectively.
 
 My research interest includes but not limited to Zero-shot Learning, Few-shot Learning and Optimal Transport.
 
