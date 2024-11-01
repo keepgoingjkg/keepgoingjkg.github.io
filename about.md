@@ -27,7 +27,9 @@ My research interest includes but not limited to Zero-shot Learning, Few-shot Le
 
 ## 🧙 Services
 ### Conference Reviewer：
-- ACM International Conference on Multimedia (ACM-MM 2024)
+- International Conference on Learning Representations (ICLR 2025)
+- AAAI Conference on Artificial Intelligence (AAAI 2025)
+- ACM International Conference on Multimedia (ACM-MM 2024), Outstanding Reviewers
 - IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR2024)
 - International Conference on Machine Learning (ICML2024)
 
