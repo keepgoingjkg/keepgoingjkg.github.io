@@ -12,6 +12,7 @@ Welcome to my homepage! I am currently a PhD student in the Department of Comput
 My research interest includes but not limited to Zero-shot Learning, Few-shot Learning and Optimal Transport.
 
 ## 🔥 News
+- 2025.05: &nbsp;🥂🥂 Two papers are accepted by IJCAI205. 
 - 2024.04: &nbsp;🥂🥂 One paper is accepted by UAI2024. 
 - 2023.12: &nbsp;🥳🥳 I got a PhD offer from PolyU.
 - 2023.10: &nbsp;🙋🙋 One paper is accepted by Journal of Radar.
@@ -27,14 +28,17 @@ My research interest includes but not limited to Zero-shot Learning, Few-shot Le
 
 ## 🧙 Services
 ### Conference Reviewer：
-- International Conference on Learning Representations (ICLR 2025)
-- AAAI Conference on Artificial Intelligence (AAAI 2025)
-- ACM International Conference on Multimedia (ACM-MM 2024), Outstanding Reviewers
-- IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR2024,CVPR2025)
-- International Conference on Machine Learning (ICML2024)
+- Conference on Neural Information Processing Systems (NeurIPS: 2025)
+- International Conference on Learning Representations (ICLR: 2025)
+- International Conference on Computer Vision (ICCV: 2025)
+- AAAI Conference on Artificial Intelligence (AAAI: 2025)
+- ACM International Conference on Multimedia (ACM-MM: 2024), Outstanding Reviewers
+- IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR: 2024/2025)
+- International Conference on Machine Learning (ICML: 2024/2025)
 
 ### Journal Reviewer:
 - IEEE Open Journal of the Computer Society (IEEE OJ-CS)
+- IEEE Transactions on Multimedia (IEEE TMM)
   
 ## 🎓 Education
 - 2020.09 - 2023.06, M.S.@XDU, Electronic Engineering
