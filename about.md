@@ -12,7 +12,7 @@ Welcome to my homepage! I am currently a PhD student in the Department of Comput
 My research interest includes but not limited to Zero-shot Learning, Few-shot Learning and Optimal Transport.
 
 ## 🔥 News
-- 2025.05: &nbsp;🥂🥂 Two papers are accepted by IJCAI205. 
+- 2025.05: &nbsp;🥳🥳 Two papers are accepted by IJCAI2025. 
 - 2024.04: &nbsp;🥂🥂 One paper is accepted by UAI2024. 
 - 2023.12: &nbsp;🥳🥳 I got a PhD offer from PolyU.
 - 2023.10: &nbsp;🙋🙋 One paper is accepted by Journal of Radar.
