@@ -5,7 +5,7 @@ url: https://keepgoingjkg.github.io
 avatar: /assets/images/MG_higher.jpg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /assets/images/bg.jpg
 
 # Gems
 plugins:
