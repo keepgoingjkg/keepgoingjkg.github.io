@@ -7,7 +7,7 @@ title: "About"
 
 ## 🐨 Me
 
-Welcome to my homepage! I am currently a PhD student in the Department of Computing at The Hong Kong Polytechnic University, supervised by [Dr. Jingcai Guo](https://jingcaiguo.github.io/). Prior to that, I received my M.Eng. degree , under the supervision of [Prof. Bo Chen](https://web.xidian.edu.cn/bchen/), and my B.Eng. degree , all from Xidian University in 2023 and 2020 respectively.
+Welcome to my homepage! I am currently a PhD student in the Department of Computing at The Hong Kong Polytechnic University, supervised by [Dr. Jingcai Guo](https://jingcaiguo.github.io/). Prior to that, I received my M.Eng. degree, under the supervision of [Prof. Bo Chen](https://web.xidian.edu.cn/bchen/), and my B.Eng. degree, all from Xidian University in 2023 and 2020 respectively.
 
 My research interest includes but not limited to Zero-shot Learning, Few-shot Learning and Optimal Transport.
 
@@ -28,12 +28,12 @@ My research interest includes but not limited to Zero-shot Learning, Few-shot Le
 
 ## 🧙 Services
 ### Conference Reviewer：
-- Conference on Neural Information Processing Systems (NeurIPS: 2025)
-- International Conference on Learning Representations (ICLR: 2025)
+- International Conference on Learning Representations (ICLR: 2025/2026)
+- Conference on Neural Information Processing Systems (NeurIPS: 2025/2026)
+- IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR: 2024/2025/2026)
 - International Conference on Computer Vision (ICCV: 2025)
 - AAAI Conference on Artificial Intelligence (AAAI: 2025)
 - ACM International Conference on Multimedia (ACM-MM: 2024), Outstanding Reviewers
-- IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR: 2024/2025)
 - International Conference on Machine Learning (ICML: 2024/2025)
 
 ### Journal Reviewer:
