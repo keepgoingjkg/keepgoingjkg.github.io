@@ -12,11 +12,12 @@ Welcome to my homepage! I am currently a PhD student in the Department of Comput
 My research interest includes but not limited to Zero-Shot Learning, Multimodal Representation Learning and Optimal Transport.
 
 ## 🔥 News
+- 2026.05: &nbsp;🍹🍹 One paper is accepted by IJCAI2026. 
 - 2026.02: &nbsp;🎊🎊 Three papers are accepted by CVPR2026. 
-- 2025.05: &nbsp;🥳🥳 Two papers are accepted by IJCAI2025. 
+- 2025.05: &nbsp;🍸🍸 Two papers are accepted by IJCAI2025. 
 - 2024.04: &nbsp;🥂🥂 One paper is accepted by UAI2024. 
 - 2023.12: &nbsp;🥳🥳 I got a PhD offer from PolyU.
-- 2023.10: &nbsp;🙋🙋 One paper is accepted by Journal of Radar.
+- 2023.10: &nbsp;🙋🙋 One paper is accepted by the Journal of Radar.
 - 2023.09: &nbsp;🍾🍾 One paper is accepted by NeurIPS2023. 
 - 2023.07: &nbsp;🎉🎉 PatchCT is accepted by ICCV2023.
 
@@ -37,6 +38,7 @@ My research interest includes but not limited to Zero-Shot Learning, Multimodal 
 - ACM International Conference on Multimedia (ACM-MM: 2024/2026), Outstanding Reviewers
 - International Conference on Machine Learning (ICML: 2024/2025/2026)
 - Annual Conference on Uncertainty in Artificial Intelligence (UAI: 2026)
+- European Conference on Computer Vision (ECCV: 2026)
 
 ### Journal Reviewer:
 - IEEE Open Journal of the Computer Society (IEEE OJ-CS)
